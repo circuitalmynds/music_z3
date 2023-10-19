@@ -2,11 +2,53 @@
     "available_space": true,
     "content": [
         {
+            "id": "fb0hbHjofRc",
+            "name": "Dear Little Girl [fb0hbHjofRc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Dear Little Girl [fb0hbHjofRc].mp4",
+            "size": 4.5373909999999995,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Dear Little Girl [fb0hbHjofRc].mp4?raw=true"
+        },
+        {
+            "id": "CUh6NXhCbmw",
+            "name": "Drume Negrita [CUh6NXhCbmw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Drume Negrita [CUh6NXhCbmw].mp4",
+            "size": 4.280511,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Drume Negrita [CUh6NXhCbmw].mp4?raw=true"
+        },
+        {
+            "id": "s5tuB5Rx9xc",
+            "name": "Love and Kisses ' I've Found Love ( Now That I've Found You ) Album Version [s5tuB5Rx9xc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Love and Kisses ' I've Found Love ( Now That I've Found You ) Album Version [s5tuB5Rx9xc].mp4",
+            "size": 19.430353999999998,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Love and Kisses ' I've Found Love ( Now That I've Found You ) Album Version [s5tuB5Rx9xc].mp4?raw=true"
+        },
+        {
             "id": "ep3tmzT-VVU",
             "name": "Liszt - Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung-ep3tmzT-VVU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/Liszt - Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung-ep3tmzT-VVU.mp4",
             "size": 1.488295,
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Liszt - Freudvoll und leidvoll, S. 280 (ca. 1860) 2. Fassung der 1. Vertonung-ep3tmzT-VVU.mp4?raw=true"
+        },
+        {
+            "id": "tiTu6g2TqC8",
+            "name": "Frédéric Chopin - 14 Waltzes (Rubinstein) [tiTu6g2TqC8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Frédéric Chopin - 14 Waltzes (Rubinstein) [tiTu6g2TqC8].mp4",
+            "size": 81.883736,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Frédéric Chopin - 14 Waltzes (Rubinstein) [tiTu6g2TqC8].mp4?raw=true"
+        },
+        {
+            "id": "h1Faj9aKuGI",
+            "name": "Noches de Hungria [h1Faj9aKuGI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Noches de Hungria [h1Faj9aKuGI].mp4",
+            "size": 4.699605,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Noches de Hungria [h1Faj9aKuGI].mp4?raw=true"
+        },
+        {
+            "id": "06Qm-Z5OsHw",
+            "name": "Hermeto Pascoal - Música da Lagoa [06Qm-Z5OsHw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Hermeto Pascoal - Música da Lagoa [06Qm-Z5OsHw].mp4",
+            "size": 11.323763999999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Hermeto Pascoal - Música da Lagoa [06Qm-Z5OsHw].mp4?raw=true"
         },
         {
             "id": "reaEJYv_1yk",
@@ -16,11 +58,32 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Galina Vishnevskaya sings Tchaikovsky - video 1969 - best quality-reaEJYv_1yk.mp4?raw=true"
         },
         {
+            "id": "OBc8e3iWSNg",
+            "name": "Top Hat, White Tie And Tails [OBc8e3iWSNg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Top Hat, White Tie And Tails [OBc8e3iWSNg].mp4",
+            "size": 7.651052999999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Top Hat, White Tie And Tails [OBc8e3iWSNg].mp4?raw=true"
+        },
+        {
+            "id": "gnfxEReR5-M",
+            "name": "Road Dub [gnfxEReR5-M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Road Dub [gnfxEReR5-M].mp4",
+            "size": 10.378715,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Road Dub [gnfxEReR5-M].mp4?raw=true"
+        },
+        {
             "id": "WH-lHjbQzkU",
             "name": "Izu Amanatsu Nattou Uri-WH-lHjbQzkU.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/Izu Amanatsu Nattou Uri-WH-lHjbQzkU.mp4",
             "size": 5.105312,
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Izu Amanatsu Nattou Uri-WH-lHjbQzkU.mp4?raw=true"
+        },
+        {
+            "id": "cfBGcMgXI6A",
+            "name": "Václav Jan Tomášek - Piano Concerto No.1 in C major, Op.18, Jan Simon (piano) [cfBGcMgXI6A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Václav Jan Tomášek - Piano Concerto No.1 in C major, Op.18, Jan Simon (piano) [cfBGcMgXI6A].mp4",
+            "size": 33.506564,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Václav Jan Tomášek - Piano Concerto No.1 in C major, Op.18, Jan Simon (piano) [cfBGcMgXI6A].mp4?raw=true"
         },
         {
             "id": "G3ZVqd9eqmc",
@@ -37,6 +100,20 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Claude Debussy - L'enfant prodigue-0ShjToPSsOM.mp4?raw=true"
         },
         {
+            "id": "qT6XCvDUUsU",
+            "name": "Moby - Why Does My Heart Feel So Bad？ [qT6XCvDUUsU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Moby - Why Does My Heart Feel So Bad？ [qT6XCvDUUsU].mp4",
+            "size": 8.2652,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Moby - Why Does My Heart Feel So Bad？ [qT6XCvDUUsU].mp4?raw=true"
+        },
+        {
+            "id": "z-8pT2HGI8Q",
+            "name": "Love And Kisses [z-8pT2HGI8Q].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Love And Kisses [z-8pT2HGI8Q].mp4",
+            "size": 7.3781229999999995,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Love And Kisses [z-8pT2HGI8Q].mp4?raw=true"
+        },
+        {
             "id": "BT-HQpSd9cM",
             "name": "Liszt - Die Fischerstochter, S. 325 (1871) - Die Fischerstochter sitzt am Strand-BT-HQpSd9cM.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/Liszt - Die Fischerstochter, S. 325 (1871) - Die Fischerstochter sitzt am Strand-BT-HQpSd9cM.mp4",
@@ -51,11 +128,53 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Sonata No. 1 in E flat major (Sonate en mi bémol majeur no 1. Scene dans le Stile pathétique)...-tgADNlpzotM.mp4?raw=true"
         },
         {
+            "id": "ejndYcwU3oA",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Nel padiglione a manca - E Barbarina.. chi... [ejndYcwU3oA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Nel padiglione a manca - E Barbarina.. chi... [ejndYcwU3oA].mp4",
+            "size": 5.508552,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - Recit. Nel padiglione a manca - E Barbarina.. chi... [ejndYcwU3oA].mp4?raw=true"
+        },
+        {
+            "id": "EnCtaZM2Rj0",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act IV - No. 27, Aprite un po' quegl' occhi [EnCtaZM2Rj0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 27, Aprite un po' quegl' occhi [EnCtaZM2Rj0].mp4",
+            "size": 7.935658999999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act IV - No. 27, Aprite un po' quegl' occhi [EnCtaZM2Rj0].mp4?raw=true"
+        },
+        {
             "id": "1yMXaWwIR8Y",
             "name": "Sistema de Enseñanza-1yMXaWwIR8Y.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/Sistema de Enseñanza-1yMXaWwIR8Y.mp4",
             "size": 2.949008,
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Sistema de Enseñanza-1yMXaWwIR8Y.mp4?raw=true"
+        },
+        {
+            "id": "YDk2RUaoEJQ",
+            "name": "Ravel's 'La Valse' - Audio + Sheet Music [YDk2RUaoEJQ].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Ravel's 'La Valse' - Audio + Sheet Music [YDk2RUaoEJQ].mp4",
+            "size": 15.723533999999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Ravel's 'La Valse' - Audio + Sheet Music [YDk2RUaoEJQ].mp4?raw=true"
+        },
+        {
+            "id": "DveALz7GRtw",
+            "name": "Liszt： Années de pèlerinage I, S. 160 - I. La chapelle de Guilaume Tell [DveALz7GRtw].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Liszt： Années de pèlerinage I, S. 160 - I. La chapelle de Guilaume Tell [DveALz7GRtw].mp4",
+            "size": 15.156671999999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Liszt： Années de pèlerinage I, S. 160 - I. La chapelle de Guilaume Tell [DveALz7GRtw].mp4?raw=true"
+        },
+        {
+            "id": "9Hn96uHkthU",
+            "name": "Lola Flores - Ay pena, penita, pena - 8 - Ay pena, penita, pena [9Hn96uHkthU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Lola Flores - Ay pena, penita, pena - 8 - Ay pena, penita, pena [9Hn96uHkthU].mp4",
+            "size": 14.420141,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Lola Flores - Ay pena, penita, pena - 8 - Ay pena, penita, pena [9Hn96uHkthU].mp4?raw=true"
+        },
+        {
+            "id": "mcAZZP7wYUI",
+            "name": "Patrick Cowley - Right on Target [mcAZZP7wYUI].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Patrick Cowley - Right on Target [mcAZZP7wYUI].mp4",
+            "size": 64.799791,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Patrick Cowley - Right on Target [mcAZZP7wYUI].mp4?raw=true"
         },
         {
             "id": "jBydi6BMh0A",
@@ -65,6 +184,48 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Keyboard Sonata No. 36 in C Major, Hob. XVI, 21 - II. Adagio-jBydi6BMh0A.mp4?raw=true"
         },
         {
+            "id": "3VzVEHhcd0U",
+            "name": "La Boca [3VzVEHhcd0U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/La Boca [3VzVEHhcd0U].mp4",
+            "size": 6.944443,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/La Boca [3VzVEHhcd0U].mp4?raw=true"
+        },
+        {
+            "id": "V_VHIm9a3_4",
+            "name": "L'ali d'amore： Da cento affanni e cento [V_VHIm9a3_4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/L'ali d'amore： Da cento affanni e cento [V_VHIm9a3_4].mp4",
+            "size": 15.497202,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/L'ali d'amore： Da cento affanni e cento [V_VHIm9a3_4].mp4?raw=true"
+        },
+        {
+            "id": "ucRuu9tHzeg",
+            "name": "Lee Perry At Wirl Records [ucRuu9tHzeg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Lee Perry At Wirl Records [ucRuu9tHzeg].mp4",
+            "size": 66.967006,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Lee Perry At Wirl Records [ucRuu9tHzeg].mp4?raw=true"
+        },
+        {
+            "id": "Vappn3Srlws",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Evviva! [Vappn3Srlws].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Evviva! [Vappn3Srlws].mp4",
+            "size": 3.247941,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Act I - Recit. Evviva! [Vappn3Srlws].mp4?raw=true"
+        },
+        {
+            "id": "Em2ffoAKnRU",
+            "name": "Mily Balakirev - Symphony No.1 in C-major (1866) [Em2ffoAKnRU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Mily Balakirev - Symphony No.1 in C-major (1866) [Em2ffoAKnRU].mp4",
+            "size": 69.710231,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Mily Balakirev - Symphony No.1 in C-major (1866) [Em2ffoAKnRU].mp4?raw=true"
+        },
+        {
+            "id": "d0bOvrbetGA",
+            "name": "(Full album) Real Filharmonía de Galicia - Manuel de Falla - El sombrero de tres picos & Fuego fatuo [d0bOvrbetGA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/(Full album) Real Filharmonía de Galicia - Manuel de Falla - El sombrero de tres picos & Fuego fatuo [d0bOvrbetGA].mp4",
+            "size": 92.45874599999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/(Full album) Real Filharmonía de Galicia - Manuel de Falla - El sombrero de tres picos & Fuego fatuo [d0bOvrbetGA].mp4?raw=true"
+        },
+        {
             "id": "DWxA83nmJ1k",
             "name": "The Cat-DWxA83nmJ1k.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/The Cat-DWxA83nmJ1k.mp4",
@@ -72,11 +233,39 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/The Cat-DWxA83nmJ1k.mp4?raw=true"
         },
         {
+            "id": "evjfOnvIPLk",
+            "name": "I Adore You [evjfOnvIPLk].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/I Adore You [evjfOnvIPLk].mp4",
+            "size": 14.359995,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/I Adore You [evjfOnvIPLk].mp4?raw=true"
+        },
+        {
+            "id": "0V8BcIY0t3o",
+            "name": "Die schöne Müllerin (＂The fair miller-maid＂), D. 795. Franz Schubert (Germ.⧸ Engl.⧸ Span. subtitles) [0V8BcIY0t3o].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Die schöne Müllerin (＂The fair miller-maid＂), D. 795. Franz Schubert (Germ.⧸ Engl.⧸ Span. subtitles) [0V8BcIY0t3o].mp4",
+            "size": 85.04540399999999,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Die schöne Müllerin (＂The fair miller-maid＂), D. 795. Franz Schubert (Germ.⧸ Engl.⧸ Span. subtitles) [0V8BcIY0t3o].mp4?raw=true"
+        },
+        {
+            "id": "ckndQQFT9ZA",
+            "name": "Mozart： Le nozze di Figaro, K. 492, Appendix - Un moto di gioia, K. 579 (Replacement Aria,... [ckndQQFT9ZA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Mozart： Le nozze di Figaro, K. 492, Appendix - Un moto di gioia, K. 579 (Replacement Aria,... [ckndQQFT9ZA].mp4",
+            "size": 8.898104,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Mozart： Le nozze di Figaro, K. 492, Appendix - Un moto di gioia, K. 579 (Replacement Aria,... [ckndQQFT9ZA].mp4?raw=true"
+        },
+        {
             "id": "fb0hbHjofRc",
             "name": "Dear Little Girl-fb0hbHjofRc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/Dear Little Girl-fb0hbHjofRc.mp4",
             "size": 3.2292129999999997,
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Dear Little Girl-fb0hbHjofRc.mp4?raw=true"
+        },
+        {
+            "id": "suGnhGoe8iY",
+            "name": "Things Are Looking Up [suGnhGoe8iY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Things Are Looking Up [suGnhGoe8iY].mp4",
+            "size": 10.570086,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Things Are Looking Up [suGnhGoe8iY].mp4?raw=true"
         },
         {
             "id": "-39UDIStwOE",
@@ -93,6 +282,13 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Camisa Molhada-IGIfEc6uL1o.mp4?raw=true"
         },
         {
+            "id": "XDqcYhMdE24",
+            "name": "Ken Boothe - Mr Rock Steady (Full Album 1968) [XDqcYhMdE24].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/z3/videos/Ken Boothe - Mr Rock Steady (Full Album 1968) [XDqcYhMdE24].mp4",
+            "size": 49.154168,
+            "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/Ken Boothe - Mr Rock Steady (Full Album 1968) [XDqcYhMdE24].mp4?raw=true"
+        },
+        {
             "id": "_2KXxotG0As",
             "name": "I Can't Be Bothered Now-_2KXxotG0As.mp4",
             "path": "/home/alanmatzumiya/Videos/container/z3/videos/I Can't Be Bothered Now-_2KXxotG0As.mp4",
@@ -100,5 +296,5 @@
             "url": "https://github.com/circuitalmynds/music_z3/blob/main/videos/I Can't Be Bothered Now-_2KXxotG0As.mp4?raw=true"
         }
     ],
-    "total_size": 127.404972
+    "total_size": 867.1376629999999
 }
